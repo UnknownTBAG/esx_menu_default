@@ -2,6 +2,8 @@ By HiTTA#6666
 
 # esx_menu_default
 Simple script used for menus.
+(You can edit the name of the menu in html/js/app.js)
+
 
 ![menu](esx_menu_default/html/img/menu.png)
 
