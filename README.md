@@ -3,7 +3,7 @@ By HiTTA#6666
 # esx_menu_default
 Simple script used for menus.
 
-![menu](../html/img/menu.png)
+![menu](esx_menu_default/html/img/menu.png)
 
 ## Download & Installation
 
